@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "commit name"
+git remote add origin git@githum....path to repository
+git push -u master
+
+
+to add a change
+
+git status // to check if any change is there
+git add .
+git commit -m "commit name"
+git push -u origin master
