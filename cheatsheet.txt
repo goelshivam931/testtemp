@@ -10,4 +10,4 @@ to add a change
 git status // to check if any change is there
 git add .
 git commit -m "commit name"
-git push -u origin master
+git push origin master
